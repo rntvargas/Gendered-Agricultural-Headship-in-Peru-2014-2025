@@ -1,2 +1,0 @@
-"holdout_year","n","weighted_observed","weighted_predicted","brier","baseline_brier","auc"
-2025,38449,0.31182547291701,0.286075596228374,0.205580531725734,0.214615518944554,0.61508488440383
