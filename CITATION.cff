@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the archived version of this research package."
+title: "Women among agricultural producers in Peru, 2014-2025: recorded producer status and service access in 2025"
+type: dataset
+authors:
+  - family-names: Quispe Vargas
+    given-names: Renato
+  - family-names: Ilaquita Pariapaza
+    given-names: Kemelly Shanell
+doi: 10.5281/zenodo.24395430
+url: https://github.com/rntvargas/Gendered-Agricultural-Headship-in-Peru-2014-2025
+license: CC-BY-4.0
